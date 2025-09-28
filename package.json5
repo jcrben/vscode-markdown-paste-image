@@ -6,6 +6,7 @@
   "packageManager": "pnpm@7.32.2",
   "description": "Paste Image in markdown from clipboard",
   "author": "Chris Towles",
+  // "packageManager": "pnpm@7.32.2",
   "license": "MIT",
   "homepage": "https://github.com/ChrisTowles/vscode-markdown-paste-image#readme",
   "repository": {
